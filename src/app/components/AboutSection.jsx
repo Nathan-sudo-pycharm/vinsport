@@ -34,7 +34,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Cybersecurity Training by Honeywell and PaloAlto</li>
-        <li>PaloAlto's Cloud Security Foundations </li>
+        <li>PaloAlto Cloud Security Foundations </li>
       </ul>
     ),
   },
